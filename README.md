@@ -1,1 +1,3 @@
 # movie-api
+
+NODE JS UYGULAMA DENEME ÇALIŞMLARI
